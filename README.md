@@ -41,8 +41,15 @@ This project transforms unstructured corporate sustainability reports into struc
 
 ---
 
-## 📊 Outputs
+## 📊 Inputs
 
+## 📂 Dataset
+
+The ESG PDF dataset is too large to be stored in this repository.
+It is hosted externally on Microsoft SharePoint:
+👉 https://constructoruniversity-my.sharepoint.com/:f:/g/personal/wpriatmojo_constructor_university/IgBh0Hwq_U2yTKgkEtsVEGHbAfpFcp9Kw44OU7Mgz0m2gnc?e=ycqFnN
+
+## 📊 Outputs
 The pipeline generates:
 
 ### 📁 Datasets
@@ -89,14 +96,6 @@ The pipeline generates:
 
 
 ---
-
-## 📂 Dataset
-
-The ESG PDF dataset is too large to be stored in this repository.
-
-It is hosted externally on Microsoft SharePoint:
-
-👉 https://constructoruniversity-my.sharepoint.com/:f:/g/personal/wpriatmojo_constructor_university/IgBh0Hwq_U2yTKgkEtsVEGHbAfpFcp9Kw44OU7Mgz0m2gnc?e=ycqFnN
 
 ### 📥 How to use
 1. Open the link above
