@@ -96,11 +96,13 @@ Install dependencies:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn pdfplumber sentence-transformers transformers bertopic adjustText
+
 🚀 How to Run
 Step 1: Run ESG Extraction Pipeline
 python stage1_pipeline.py
 Step 2: Run Evaluation & Advanced Analytics
 python stage2_pipeline.py
+
 📌 Key Features
 Hybrid ESG classification (rules + machine learning)
 Human benchmark evaluation
@@ -109,12 +111,14 @@ Topic discovery (BERTopic)
 Full evaluation metrics suite
 Publication-ready visualizations
 Scalable PDF processing pipeline
+
 📌 Use Cases
 ESG reporting automation
 Sustainability analytics
 Financial NLP research
 Corporate risk analysis
 Investment decision support systems
+
 🧠 Pipeline Workflow
 PDF ingestion
 Text extraction
@@ -124,14 +128,15 @@ ESG classification
 Sentiment analysis
 Topic modeling
 Aggregation & visualization
+
 📊 Example Insights
 ESG distribution across industries
 Sentiment trends in sustainability reports
 Governance vs Environmental focus comparison
 Topic clusters of ESG narratives
 Model performance against human labeling
-🧑‍💻 Author
 
+🧑‍💻 Author
 Name: Widyasmoro Priatmojo
 Role: PhD Student
 Focus: ESG Analytics, Financial NLP, Topic Modeling
