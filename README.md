@@ -90,6 +90,19 @@ The pipeline generates:
 
 ---
 
+## 📂 Dataset
+
+The ESG PDF dataset is too large to be stored in this repository.
+
+It is hosted externally on Microsoft SharePoint:
+
+👉 https://constructoruniversity-my.sharepoint.com/:f:/g/personal/wpriatmojo_constructor_university/IgBh0Hwq_U2yTKgkEtsVEGHbAfpFcp9Kw44OU7Mgz0m2gnc?e=ycqFnN
+
+### 📥 How to use
+1. Open the link above
+2. Download the folder/ZIP
+3. Extract it into:
+
 ## ⚙️ Installation
 
 Install dependencies:
