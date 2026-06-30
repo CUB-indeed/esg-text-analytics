@@ -1,4 +1,4 @@
-# ESG Semantic Analytics Pipeline
+# ESG Text Analytics Pipeline
 
 An end-to-end NLP system for extracting, classifying, and analyzing Environmental, Social, and Governance (ESG) insights from corporate PDF reports using semantic similarity, supervised learning, sentiment analysis, and topic modeling.
 
